@@ -1,7 +1,7 @@
 # My-Profile
 # Hi 👋, I'm Yenuganti Srithika
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=250&section=header&text=Raza%20Tabassum&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20Web%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=250&section=header&text=Yenuganti%20Srithika&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Web%20Developer&descAlignY=60&descSize=20)
 
 <h3 align="center">B.Tech CSE(Data Science) Student | Aspiring Software Engineer | Web Developer | Machine Learning Enthusiast | Artificial Intelligence Learner</h3>
 
