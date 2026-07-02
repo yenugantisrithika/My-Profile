@@ -28,11 +28,6 @@
 <a href="mailto:yenugantisrithika@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,sql,C Programming,cpp,html,css,javascript,mysql,SQLite,Pandas,Numpy,Matplotlib,Scikit-learn,Machine Learning,Data Structures & Algorithms,Jupyter Notebook,Google Colab,git,github,vscode"/>
-</p>
 
 ## 📊 GitHub Statistics
 
@@ -124,11 +119,6 @@ AI-powered traffic management system using OpenCV, Computer Vision and Machine L
 <img src="https://komarev.com/ghpvc/?username=yenugantisrithika&style=for-the-badge&color=blue"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yenugantisrithika/yenugantisrithika/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ## ⚡ Fun Fact
 I enjoy building AI-powered applications that solve real-world problems.
